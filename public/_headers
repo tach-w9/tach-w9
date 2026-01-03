@@ -1,0 +1,6 @@
+/*
+  Cross-Origin-Isolation required for WebContainers (SharedArrayBuffer)
+*/
+/
+  Cross-Origin-Embedder-Policy: require-corp
+  Cross-Origin-Opener-Policy: same-origin
